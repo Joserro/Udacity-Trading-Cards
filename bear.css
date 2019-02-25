@@ -1,0 +1,38 @@
+/* take out bullet points */
+ul{
+  list-style: none;
+}
+li{
+  padding: 0.2em;
+}
+.card{
+  width:300px;
+  padding:1em;
+  border:solid 1px;
+  border-radius: 25px;
+  background-color: #c0392b;
+}
+.container{
+  border-radius: 25px;
+  background-color:#c0392b;
+  padding:.5em;
+  border: solid 1px ;
+}
+.facts{
+  padding: .5em;
+  font-style:italic;
+}
+span{
+  font-weight: bold;
+}
+.description{
+  padding: .5em;
+}
+img{
+  border-radius: 25px;;;
+  border: solid 1px;
+}
+
+.bear-name{
+  text-align: center;
+}
